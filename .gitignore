@@ -1,0 +1,48 @@
+# Build files for Arduino/ESP32
+*.bin
+*.elf
+*.hex
+*.pde
+*.out
+*.map
+
+# IDE-specific files
+.vscode/
+.idea/
+.pio/
+.settings/
+
+# Arduino libraries and hardware
+hardware/
+libraries/
+
+# Secrets and configuration files
+arduino_secrets.h
+*.h
+*.cpp
+
+# Log files
+*.log
+
+# Temporary files
+*.swp
+*.swo
+
+# macOS-specific files
+.DS_Store
+
+# Windows-specific files
+Thumbs.db
+
+# Test output and distribution files
+/test_output/
+/dist/
+
+# Sensitive information
+*.key
+*.pem
+*.crt
+*.env
+
+# Data files (SPIFFS or LittleFS)
+data/
