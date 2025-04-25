@@ -1,4 +1,4 @@
-# IoT-Based Smart Helmet System with GPS and GSM
+# IoT-Based Smart Helmet System 
 
 This is an IoT-based Smart Helmet System designed for rider safety. It includes sensors for accident detection, alcohol detection, real-time GPS tracking, and communication with a bike unit. The system uses **ESP32** microcontrollers to enable efficient communication and functionality.
 
