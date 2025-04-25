@@ -48,4 +48,7 @@ This is an IoT-based Smart Helmet System designed for rider safety. It includes 
    git clone https://github.com/username/smart-helmet-iot.git
    cd smart-helmet-iot
 
+###demo
+![WhatsApp Image 2025-04-05 at 21 57 35_76bc6208](https://github.com/user-attachments/assets/9bf80277-a54d-430a-930c-85eeac5194d2)
+![WhatsApp Image 2025-04-05 at 21 57 35_d4afb67d](https://github.com/user-attachments/assets/75381b52-8363-459f-8329-46dc76ec0dad)
 
